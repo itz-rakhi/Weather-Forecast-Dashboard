@@ -186,7 +186,7 @@ Transforms raw weather data into meaningful and actionable insights through inte
 The dashboard provides a clean, modern, and interactive interface for monitoring weather forecasts and environmental conditions.
 
 The dashboard looks like:-
-https://github.com/itz-rakhi
+https://github.com/itz-rakhi/Weather-Forecast-Dashboard/blob/main/weather_forecast_dashboard.png
 
 ---
 
